@@ -45,7 +45,7 @@ int RenewStrLen(const char * pathName);
 void show_gb_stat(int ftype);
 
 //Oder
-void quickSort(int l,int r,char **str_list);  // you can Use  sort(src,dst,lscmp) from algorithm header
+void quickSort(int l,int r,char **str_list);  // instead, you can Use sort(src,dst,lscmp) from algorithm header
 int lscmp(const char * a, const char * b);
 void swapStr(char ** fa,char ** fb);
 int charType(char a);
