@@ -1,6 +1,6 @@
 # ls_lR-over-linux_sysCall
 
-almost simiular Real "ls -lR --time-style=long-iso"
+Almost simiular Real shell command ***"ls -lR --time-style=long-iso"***
 
 ---------------------------------------
 * Print Format locale : ***en_US.utf8*** 
