@@ -33,7 +33,7 @@ int flsize;
 int mjsize;
 int misize;
 
-map<long,bool> visitdir; 
+map<long,bool> visitdir; //Prevent unlimit loop 
 
 //Print
 void printDir(const char * dirpath,const char * nextdir,const char * restorePath = "..");
