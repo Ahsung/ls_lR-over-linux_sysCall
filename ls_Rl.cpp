@@ -173,7 +173,7 @@ void printDir(const char * dirpath,const char * nextdir,const char * restorePath
             str_list = (char **)realloc(str_list,(msize)*sizeof(char *));
         }
 
-        RenewStrLen(item->d_name);
+        RenewStrLen(item->d_name); //Renew print format and count total block
     }
 
     printf("%s:\n",dirpath);
