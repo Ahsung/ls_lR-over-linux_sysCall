@@ -3,6 +3,6 @@
 almost simiular Real "ls -lR --time-style=long-iso"
 
 ---------------------------------------
-* Print Format locale : *en_US.utf8* 
+* Print Format locale : ***en_US.utf8*** 
 * default, Start current directory
 * you can use argument path
